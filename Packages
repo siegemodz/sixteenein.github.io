@@ -1,0 +1,15 @@
+Package: com.sixteenein.filza64bit
+Version: 3.5.0-16
+Architecture: iphoneos-arm
+Maintainer: SiegeModz <erasevii7@gmail.com>
+Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
+Filename: debs//com.sixteenein.filza64bit
+Size: 9,685,378
+MD5sum: 937043e84c0e4ad624cca035ec4f950b
+SHA1: 017932215B8E17EAA12BB71FD2C41297637AB397
+SHA256: CE424D7C1241B76074C1FC363E930E8D97468464C44782FD682DA21DC7D2AEB7
+Section: 69 - Tweaks
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices.
+Author: TIGI Software <repo@hackyouriphone.org>
+Depiction: http://sixteenein.github.io/depic/<depicfoldername>/index.html
+Name: Filza File Manager (64 Bit Only)
