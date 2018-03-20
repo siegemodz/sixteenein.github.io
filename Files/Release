@@ -1,0 +1,9 @@
+Origin: Siege's Repo (SixteeNein)
+Label: SixteeNein Repo
+Suite: stable
+Version: 1.0
+Codename: SixteeNein
+Architectures: iphoneos-arm
+Components: main
+Description: Official SixteeNein Repo for iOS 11 - 11.1.X!
+MD5Sum:
